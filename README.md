@@ -8,7 +8,7 @@ description: "M.Sc. student at the Weizmann Institute of Science | Shlush Lab"
 **M.Sc. Student, Weizmann Institute of Science**  
 **Shlush Lab — Cancer Evolution & Single-Cell Genomics**
 
-> Welcome! I’m Guy, a master’s student at the Weizmann Institute. I’m currently working in the **Shlush Lab**, where we study how cancers — especially blood cancers — evolve over time, leveraging **single-cell sequencing**, **genomics**, and **computational methods**. I’m particularly excited about scalable algorithms for variant detection and integrative analysis of tumor microenvironments.
+> Welcome! I’m [Guy](https://weizmann.elsevierpure.com/en/persons/guy-shemesh/), a master’s student at the Weizmann Institute. I’m currently working in the **Shlush Lab**, where we study how cancers — especially blood cancers — evolve over time, leveraging **single-cell sequencing**, **genomics**, and **computational methods**. I’m particularly excited about scalable algorithms for variant detection and integrative analysis of tumor microenvironments.
 
 ---
 
@@ -22,7 +22,7 @@ description: "M.Sc. student at the Weizmann Institute of Science | Shlush Lab"
 
 ## 🧪 The Shlush Lab (in brief)
 
-The **Shlush Lab** investigates **cancer evolution**, with emphasis on **hematologic malignancies**. The team combines **single-cell technologies**, **longitudinal patient sampling**, and **computational genomics** to uncover how clones emerge, adapt, and resist therapy. This systems view helps identify **early drivers**, **minimal residual disease**, and **precision strategies** that may improve patient outcomes.
+The [Shlush Lab](https://www.weizmann.ac.il/immunology/shlush/) investigates **cancer evolution**, with emphasis on **hematologic malignancies**. The team combines **single-cell technologies**, **longitudinal patient sampling**, and **computational genomics** to uncover how clones emerge, adapt, and resist therapy. This systems view helps identify **early drivers**, **minimal residual disease**, and **precision strategies** that may improve patient outcomes.
 
 ---
 
